@@ -128,7 +128,7 @@
 
 # Reference, License
 - 디자인은 시각디자인학과 학우의 도움을 받았습니다.
-- 점수 산정 시 모델 : kykim/bert-kor-base
+- 점수 산정 모델 : kykim/bert-kor-base
 - This project is licensed under the BSD License
 
 
